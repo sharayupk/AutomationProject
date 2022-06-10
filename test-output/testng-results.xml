@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10986" started-at="2021-11-03T12:46:53Z" finished-at="2021-11-03T12:47:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10986" started-at="2021-11-03T12:46:53Z" finished-at="2021-11-03T12:47:04Z">
+      <class name="AutomationPractice.ToolsQAWindowPopup">
+        <test-method status="PASS" signature="executeWindowPopup()[pri:0, instance:AutomationPractice.ToolsQAWindowPopup@64bf3bbf]" name="executeWindowPopup" duration-ms="10970" started-at="2021-11-03T18:16:53Z" finished-at="2021-11-03T18:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeWindowPopup -->
+      </class> <!-- AutomationPractice.ToolsQAWindowPopup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
